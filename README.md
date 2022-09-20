@@ -1,2 +1,3 @@
 # ds_em_producao
-Rossman Store Sales Prediction
+
+This respository contains scripts for Data Science em Produção course
