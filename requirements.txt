@@ -13,6 +13,7 @@ Boruta==0.3
 certifi==2022.12.7
 cffi==1.15.1
 charset-normalizer==3.0.1
+colorama==0.4.6
 comm==0.1.2
 contourpy==1.0.7
 cycler==0.11.0
@@ -88,6 +89,8 @@ pyrsistent==0.19.3
 python-dateutil==2.8.2
 python-json-logger==2.0.7
 pytz==2022.7.1
+pywin32==306
+pywinpty==2.0.10
 PyYAML==6.0
 pyzmq==25.0.0
 qtconsole==5.4.0
